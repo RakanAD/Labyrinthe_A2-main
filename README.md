@@ -1,2 +1,2 @@
-# Labyrinthe_A2-main
- Roland ZHANG A2
+# Exercice sous Unreal Engine
+Test pratique pour vérifier mes compétences sur Unreal Engine et en Blueprint.
